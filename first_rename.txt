@@ -2,3 +2,4 @@ this is version 1 of my project
 i want this to go into commit
 i am now modifying this file yup.
 i am in the editing mode
+abcdefg
